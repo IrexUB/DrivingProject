@@ -3,7 +3,7 @@
 3D game made on Unity in the style "Endless runner". 
 The objective of this project was to have a first idea of what a 3D game could look like. 
 
-During this project I tried to optimize as much as possible the physical calculations which are not necessary, by trying for example to generate the pieces of roads based on the position of the player rather than with calculations of collisions.
+During this project I tried to optimize as much as possible the physical calculations which are not necessary, by trying for example to generate the pieces of roads based on the position of the player rather than with collisions calculations.
 
 ## Game modes
 
