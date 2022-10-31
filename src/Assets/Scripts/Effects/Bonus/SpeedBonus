@@ -1,0 +1,15 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+
+[CreateAssetMenu(menuName = "Buff/VampirismBuff", fileName = "VampirismBuff")]
+public class VampirismBuff : ScriptableEffect
+{
+    public float m_buffPercentage;
+
+    public override TimedEffect InitializeBuff(GameObject obj)
+    {
+        return new TimedVampirismBuff(this, obj);
+    }
+}
