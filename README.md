@@ -12,3 +12,24 @@ Two players play on a split screen, their objective is to reach the highest dist
 
 ### Chrono mode
 Playable in solo only. The player has the possibility to choose a timer he wants to beat. The main objective of this mode was to see more in detail the persistence of data in video games, especially with JSON files.
+
+## Game keybinding
+
+### Versus mode controls:
+
+Player 1:
+Left/right rotation: Q/D
+Acceleration: Z
+Change camera angle: R
+
+Player 2:
+Rotate left/right: Arrow left/Arrow right
+Acceleration: Arrow up
+Change camera angle: Right CTRL
+
+
+### Chrono mode controls :
+
+Rotate left/right: Q/D
+Acceleration: Z
+Change camera angle: R
